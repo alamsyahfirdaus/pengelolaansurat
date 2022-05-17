@@ -1,0 +1,10 @@
+1. Buat Database dengan nama apk_pengelolaan_surat.
+2. Import Database yang terdapat pada folder assets > sql.
+
+Login Sebagai Administrator
+Username : 31071998
+Password : 31071998
+
+Login Sebagai Mahasiswa
+Username : C1783207002
+Password : C1783207002
